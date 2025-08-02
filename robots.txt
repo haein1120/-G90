@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://xn--g90-kt8l96tbmmoidt5q3v4a.com/sitemap.xml 
