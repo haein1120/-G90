@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-
-User-agent: Yeti
-Allow: /
-
-Sitemap: https://g90대구모범택시.com/sitemap.xml 
